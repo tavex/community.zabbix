@@ -36,7 +36,6 @@ zabbix_agent_refreshactivechecks: 120
 zabbix_agent_statusport: 9999
 zabbix_agent_timeout: 3
 zabbix_agent_tlspsk_auto: false
-zabbix_agent_tlspskfile: /etc/zabbix/tls_psk_auto.secret
 zabbix_agent_unsafeuserparameters: false
 zabbix_agent_runas_user: zabbix
 zabbix_agent_loadmodulepath: ${libdir}/modules
